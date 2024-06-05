@@ -1,0 +1,23 @@
+
+
+
+.wizard .wizard-step {
+	margin: 10px 0;
+}
+
+.wizard .wizard-step p {
+	padding: 5px;
+}
+
+
+.clearfix:before, .clearfix:after {
+	content: "\0020";
+	display: block;
+	height: 0;
+	visibility: hidden;
+}
+
+.clearfix:after {
+	clear: both;
+}
+.disabled{ background-color:#F00}
